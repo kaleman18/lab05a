@@ -1,3 +1,4 @@
+.
 # Lab: Fun with Functions
 
 ## Problem Domain
