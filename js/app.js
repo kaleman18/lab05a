@@ -9,10 +9,10 @@ Test this function by hand in the console to get it working, and when you think 
 
 // Write your code here
 function sum(a, b) { //eslint-disable-line
-  let sumNumbers = []
-  let sum=a+b 
-  sumNumbers.push(sum)
-  sumNumbers.push(`The sum of ${a} and ${b} is ${sum}.`)
+  let sumNumbers = [];
+  let sum=a+b;
+  sumNumbers.push(sum);
+  sumNumbers.push(`The sum of ${a} and ${b} is ${sum}.`);
   return sumNumbers;
 }
 
